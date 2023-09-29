@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kumar.CalculatorTest.Web", "Kumar.CalculatorTest.Web\Kumar.CalculatorTest.Web.csproj", "{13138C08-FC19-4786-AFF9-D1AFF9A241FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kumar.CalculatorTest.Web.Tests", "Kumar.CalculatorTest.Web.Tests\Kumar.CalculatorTest.Web.Tests.csproj", "{AAB27C1C-CB34-48FB-AD33-6656947B7AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13138C08-FC19-4786-AFF9-D1AFF9A241FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13138C08-FC19-4786-AFF9-D1AFF9A241FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13138C08-FC19-4786-AFF9-D1AFF9A241FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13138C08-FC19-4786-AFF9-D1AFF9A241FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB27C1C-CB34-48FB-AD33-6656947B7AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB27C1C-CB34-48FB-AD33-6656947B7AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB27C1C-CB34-48FB-AD33-6656947B7AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB27C1C-CB34-48FB-AD33-6656947B7AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ED988C6-4114-4DDE-9157-2CEED1515108}
+	EndGlobalSection
+EndGlobal
